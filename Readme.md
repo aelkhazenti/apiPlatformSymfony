@@ -64,7 +64,7 @@
   "age": 0,
 }
 ```
-5. /api/entrainements/{id}
+5. /api/entrainements/{id} , {GET,PUT,DELETE,PATCH}
 ```shell
 {
   "id": 0,
@@ -76,7 +76,7 @@
   "IDuser": "string",
 }
 ```
-6. /api/user_participations/{id}
+6. /api/user_participations/{id} , {GET,PUT,DELETE,PATCH}
 ```shell
 {
   "id": 0,
