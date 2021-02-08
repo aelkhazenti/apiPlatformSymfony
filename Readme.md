@@ -4,13 +4,14 @@
 ![](https://img.shields.io/badge/version-1.0.0-success)
 ![](https://img.shields.io/badge/PHP-7.3.24-red)
 ![](https://img.shields.io/badge/symfony-5.2.3-blue)
+![](https://img.shields.io/badge/LexikJWT-2.10.6-yellow)
 
 
 ## Requirements
 
 • [PHP](https://www.php.net/downloads)
 • [symfony](https://symfony.com/)
-
+. [LexikJWT](https://github.com/lexik/LexikJWTAuthenticationBundle)
 
 ##
 
@@ -85,6 +86,16 @@
 }
 ```
 7. /email (test)
+
+
+## Installation Steps
+
+1. Clone repo: `git clone https://github.com/aelkhazenti/testMarsupilami.git apiPlatformSymfony`
+
+2. Change into root directory: `cd apiPlatformSymfony`
+
+3. `symfony serve`
+
 
 
 ## Contributing
