@@ -41,10 +41,10 @@
 ```shell
 {
   "id": 0,
-  "dateDeb": "2021-02-08T20:39:52.919Z",
-  "dateFin": "2021-02-08T20:39:52.919Z",
-  "heurDeb": "2021-02-08T20:39:52.919Z",
-  "heurFin": "2021-02-08T20:39:52.919Z",
+  "dateDeb": "2021-02-08",
+  "dateFin": "2021-02-08",
+  "heurDeb": "20:44:38",
+  "heurFin": "20:44:38",
   "typeEnt": "string",
   "IDuser": "string",
 }
@@ -68,10 +68,10 @@
 ```shell
 {
   "id": 0,
-  "dateDeb": "2021-02-08T20:44:38.350Z",
-  "dateFin": "2021-02-08T20:44:38.350Z",
-  "heurDeb": "2021-02-08T20:44:38.350Z",
-  "heurFin": "2021-02-08T20:44:38.350Z",
+  "dateDeb": "2021-02-08",
+  "dateFin": "2021-02-08",
+  "heurDeb": "20:44:38",
+  "heurFin": "20:44:38",
   "typeEnt": "string",
   "IDuser": "string",
 }
