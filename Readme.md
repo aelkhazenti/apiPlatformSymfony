@@ -85,7 +85,17 @@
   
 }
 ```
-7. /email (test)
+7. /api/newentrainement/1/sendmail
+```shell
+{
+  "dateDeb": "2021-02-0",
+  "dateFin": "2021-02-09",
+  "heurDeb": "12:36:31",
+  "heurFin": "12:36:32",
+  "typeEnt": "test push 2 ",
+  "iDuser": "/api/users/3"
+}
+```
 
 
 ## Installation Steps
