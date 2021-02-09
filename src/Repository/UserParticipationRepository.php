@@ -21,7 +21,8 @@ class UserParticipationRepository extends ServiceEntityRepository
         parent::__construct($registry, UserParticipation::class);
     }
 
-    public function getParticipation($userID){
+    public function getParticipation($userID)
+    {
 
         $qb = $this->createQueryBuilder('e');
         $qb ->innerJoin('App\Entity\User','u',Join::WITH , ':userid = e.IDuser')

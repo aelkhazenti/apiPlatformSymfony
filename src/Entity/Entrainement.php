@@ -13,13 +13,21 @@ use Doctrine\ORM\Mapping as ORM;
  *"get",
  *"put",
  *"delete",
- *"patch", 
- *     "getentrainement"={
+ *"patch",
+ *
+ * "getentrainement"={
  *         "method"="GET",
  *         "path"="/user/{id}/getentrainement",
  *         "controller"=App\Controller\getEntrainementToUser::class
- *     }
- * })
+ *     },
+ * 
+ * "newentrainement"={
+ *         "method"="POST",
+ *         "path"="/newentrainement/{id}/sendmail",
+ *         "controller"=App\Controller\newEntrainementAndEmail::class
+ *     } 
+ * }
+ * )
  */
 class Entrainement
 {
