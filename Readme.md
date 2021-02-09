@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/PHP-7.3.24-red)
 ![](https://img.shields.io/badge/symfony-5.2.3-blue)
 ![](https://img.shields.io/badge/LexikJWT-2.10.6-yellow)
+![](https://img.shields.io/badge/symfony%20mailer-5.2.3-blueviolet)
 
 
 ## Requirements
